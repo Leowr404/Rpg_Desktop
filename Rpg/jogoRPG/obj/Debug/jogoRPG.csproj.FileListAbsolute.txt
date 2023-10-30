@@ -1,0 +1,36 @@
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\bin\Debug\jogoRPG.exe.config
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\bin\Debug\jogoRPG.exe
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\bin\Debug\jogoRPG.pdb
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\obj\Debug\jogoRPG.csproj.AssemblyReference.cache
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\obj\Debug\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\obj\Debug\jogoRPG.exe
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\jogoRPG\obj\Debug\jogoRPG.pdb
+D:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.exe.config
+D:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.exe
+D:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.pdb
+D:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.csproj.AssemblyReference.cache
+D:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.csproj.CoreCompileInputs.cache
+D:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.exe
+D:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.pdb
+H:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.exe.config
+H:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.exe
+H:\Users\1328363\Downloads\jogoRPG\bin\Debug\jogoRPG.pdb
+H:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.csproj.AssemblyReference.cache
+H:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.csproj.CoreCompileInputs.cache
+H:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.exe
+H:\Users\1328363\Downloads\jogoRPG\obj\Debug\jogoRPG.pdb
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\bin\Debug\jogoRPG.exe.config
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\bin\Debug\jogoRPG.exe
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\bin\Debug\jogoRPG.pdb
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\obj\Debug\jogoRPG.csproj.AssemblyReference.cache
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\obj\Debug\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\obj\Debug\jogoRPG.exe
+C:\Users\lhss2\OneDrive\Área de Trabalho\facul\visualStudio\RPG\jogoRPG\obj\Debug\jogoRPG.pdb
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\bin\Debug\jogoRPG.exe.config
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\bin\Debug\jogoRPG.exe
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\bin\Debug\jogoRPG.pdb
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\obj\Debug\jogoRPG.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\obj\Debug\jogoRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\obj\Debug\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\obj\Debug\jogoRPG.exe
+C:\Users\Administrator\Downloads\jogoRPG\jogoRPG\obj\Debug\jogoRPG.pdb
